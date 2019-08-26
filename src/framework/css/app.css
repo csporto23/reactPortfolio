@@ -1,0 +1,11 @@
+.demo-toggle-title {
+  margin-top: 0.5rem;
+}
+
+.top-bar {
+  width: 100%;
+}
+
+.menu .active {
+  font-weight: bold;
+}

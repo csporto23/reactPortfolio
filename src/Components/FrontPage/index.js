@@ -4,6 +4,8 @@ import SocialSideBar from "../SocialSideBar/index"
 
 
 
+
+
 function FrontPage() {
   return (
 <div class="hero-full-screen">
